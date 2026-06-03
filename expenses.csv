@@ -1,0 +1,5 @@
+id,date,amount,category,description
+1,2026-06-03,250.0,Food,Lunch at canteen
+2,2026-06-03,50.0,Transport,Auto
+3,2026-06-03,1200.0,Shopping,T-shirts
+4,2026-06-03,100.0,Food,nothing
